@@ -10,7 +10,8 @@
 }
 
 body {
-  background-color: #573824;
+  background: linear-gradient(rgba(87, 56, 36, 0.7), rgba(87, 56, 36, 0.7)), url(assets/bg-image.jpg);
+  background-size: cover;
   /* background-image: url(assets/bg.jpg); */
   /* background-size: cover; */
 }
